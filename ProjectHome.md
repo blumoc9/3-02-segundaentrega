@@ -1,0 +1,1 @@
+Segunda entrega del primer Proyecto de Laboratorio I. Proyecto llamado Simular Asignatura. Por Adriana Santana, María Alejandra Páez y Fernando Colmenarez.
